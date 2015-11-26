@@ -1,0 +1,9 @@
+fondoCuatro.jpg
+tipoDos 3,vacio 2,tipoDos 3
+tipoDos 1,tipoUno 1,tipoDos 1,vacio 2,tipoDos 1,tipoUno 1,tipoDos 1
+tipoDos 1,tipoUno 1,tipoDos 1,vacio 2,tipoDos 1,tipoUno 1,tipoDos 1
+tipoDos 1,tipoUno 1,tipoDos 1,vacio 2,tipoDos 1,tipoUno 1,tipoDos 1
+tipoDos 1,tipoUno 1,tipoDos 1,vacio 2,tipoDos 1,tipoUno 1,tipoDos 1
+tipoDos 1,tipoUno 1,tipoDos 1,vacio 2,tipoDos 1,tipoUno 1,tipoDos 1
+tipoDos 1,tipoUno 1,tipoDos 1,vacio 2,tipoDos 1,tipoUno 1,tipoDos 1
+tipoDos 3,vacio 2,tipoDos 3
