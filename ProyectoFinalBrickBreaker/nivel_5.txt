@@ -1,0 +1,10 @@
+fondoCinco.jpg
+vacio 1,tipoTres 2,vacio 2,tipoTres 2,vacio 1
+vacio 1,tipoTres 2,vacio 2,tipoTres 2,vacio 1
+vacio 1,tipoTres 2,vacio 2,tipoTres 2,vacio 1
+vacio 1,tipoTres 2,vacio 2,tipoTres 2,vacio 1
+vacio 8
+tipoTres 1,vacio 6,tipoTres 1
+vacio 1,tipoTres 1,vacio 4,tipoTres 1,vacio 1
+vacio 2,tipoTres 1,vacio 2,tipoTres 1,vacio 2
+vacio 3,tipoTres 2,vacio 3
